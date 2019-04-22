@@ -1,0 +1,9 @@
+{
+  "name": "pkg-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@xo-union/pkg-ui": "^0.0.1-alpha.1417"
+  }
+}
