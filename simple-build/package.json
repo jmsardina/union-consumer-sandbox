@@ -1,0 +1,18 @@
+{
+  "name": "simple-build",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "@xo-union/tk-component-buttons": "^7.0.2",
+    "@xo-union/tk-css-breakpoints": "^1.0.7",
+    "@xo-union/tk-css-typography": "^3.0.23",
+    "extract-text-webpack-plugin": "4.0.0-alpha.0",
+    "react": "^16.8.6",
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
+  }
+}
